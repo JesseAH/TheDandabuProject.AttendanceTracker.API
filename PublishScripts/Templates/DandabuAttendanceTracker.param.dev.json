@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "attendacetracker"
+  },
+  "hostingPlanName": {
+    "value": "attendancetrackerservice"
+  },
+  "siteLocation": {
+    "value": "East US 2"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "attendancetrackerserver"
+  },
+  "serverLocation": {
+    "value": "East Asia"
+  },
+  "administratorLogin": {
+    "value": "jallershatlie"
+  },
+  "administratorLoginPassword": {
+    "value": "Jordan23"
+  },
+  "databaseName": {
+    "value": "attendacetracker_db"
+  }
+}
